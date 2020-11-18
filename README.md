@@ -12,7 +12,7 @@
 | RAM         | Galax 16G*2 2666 MHz |
 | Hard Disk 1 | Hynix 128G M.2 NVMe SSD |
 | Hard Disk 2 | Seagate BarraCuda 1T |
-| GPU         | AMD Radeon RX5500XT 4G |
+| GPU         | AMD Radeon RX5500XT 8G |
 | Sound Card  | Realtek ALC235      |
 | Ethernet    | Realtek RTL8111     |
 | WLAN        | Realtek RTL8821CE   |
