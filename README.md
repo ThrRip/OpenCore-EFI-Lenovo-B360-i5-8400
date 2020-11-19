@@ -9,14 +9,13 @@
 | ----------- | ------------------- |
 | Motherboard | Lenovo B360         |
 | CPU         | Intel Core i5-8400  |
-| RAM         | Galax 16G*2 2666 MHz |
-| Hard Disk 1 | Hynix 128G M.2 NVMe SSD |
-| Hard Disk 2 | Seagate BarraCuda 1T |
-| GPU         | AMD Radeon RX5500XT 8G |
+| RAM         | (Unknown)           |
+| Hard Disk   | (Unknown)           |
+| GPU         | Intel Graphics UHD 630 |
 | Sound Card  | Realtek ALC235      |
 | Ethernet    | Realtek RTL8111     |
 | WLAN        | Realtek RTL8821CE   |
-| Monitor     | AOC 27-inch QHD     |
+| Monitor     | (Unknown)           |
 
 ## Problems still exist
 - ~~Sound Card failed to drive~~
