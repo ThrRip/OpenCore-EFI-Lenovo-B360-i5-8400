@@ -3,7 +3,7 @@
 
 
 
-## Details of the PC Used in Debugging
+## Details of the PC used in debugging
 
 | Items       | Model               |
 | ----------- | ------------------- |
@@ -24,7 +24,7 @@
 - WLAN failed to drive
 - Bluetooth failed to drive
 - ~~Can't turn off the power if you shutdown in macOS~~
-  > This problem is resolved after I change to OpenCore from Clover.
+  > This problem is resolved after I switch to OpenCore from Clover.
 
 ## Author
 ThrRip  
