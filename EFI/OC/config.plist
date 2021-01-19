@@ -624,7 +624,7 @@
 			<key>AppleXcpmForceBoost</key>
 			<false/>
 			<key>CustomSMBIOSGuid</key>
-			<false/>
+			<true/>
 			<key>DisableIoMapper</key>
 			<true/>
 			<key>DisableLinkeditJettison</key>
@@ -859,7 +859,7 @@
 			<key>ROM</key>
 			<data>mO7Liqcu</data>
 			<key>SpoofVendor</key>
-			<true/>
+			<false/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
@@ -876,7 +876,7 @@
 		<key>UpdateSMBIOS</key>
 		<true/>
 		<key>UpdateSMBIOSMode</key>
-		<string>Create</string>
+		<string>Custom</string>
 	</dict>
 	<key>UEFI</key>
 	<dict>
